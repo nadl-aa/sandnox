@@ -1,0 +1,77 @@
+.data{
+color:darkgreen;
+text-align: center;
+}
+.head{
+    color: blue;
+    text-align: center;
+}
+.sand
+{
+    text-decoration: darkslateblue;
+    font-weight: bold;
+    font-size: x-large;
+    padding-left: 70px;
+}
+.about
+{
+    padding-left: 330px;
+    font-weight: bold;
+    font-size: large;
+    padding-top: 30px;
+}
+.in
+{
+    padding-left: 330px; 
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:0.5cm;
+}
+.qu
+{
+    padding-left: 30px; 
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:0.5cm;
+    padding-top: 5px;
+}
+.p{
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:0.5cm;
+    padding-left:20px;
+}
+.customer{
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.desc
+{
+    padding-top: 1px;
+}
+.support
+{
+    padding-top: 2px;
+}
+.cards
+{
+    width: 100%;
+    padding-left: 0%;
+    padding-right: 0%;
+    height: 60px;
+    color: #000;
+    background-color: darkslateblue;
+
+}
+.card{
+    position: fixed;
+    width: 100%;
+}
+.sands
+{
+    color: floralwhite;
+    padding-left: 30px;
+}
